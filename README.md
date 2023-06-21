@@ -1,0 +1,3 @@
+# Unity-Excel-JSON
+总体说明:Unity导JSON数据表工具,可以通过Excel导出C#数据类型生成JSON数据,也可以自定义数据结构去生成C#再生成JSON数据,或者反向通过已经有的JSON数据生成C#数据类.数据类型以支持List不同类型,数据类型中的具体值也可以在可视化的窗口下实时的编辑写入JSON中达到快速修改的目的.
+使用方法将项目中的文件夹放到unity 的 assets 下即可在unity窗口下找到gametools,点击gametools-configmananger即可使用
